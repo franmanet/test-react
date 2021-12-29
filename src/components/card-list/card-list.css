@@ -1,0 +1,10 @@
+
+.card-list {
+    columns: 12 100px;
+    column-gap: 0;
+  
+}
+.card-list__perrete img {
+    max-width: 100%;
+    display: block;
+}
