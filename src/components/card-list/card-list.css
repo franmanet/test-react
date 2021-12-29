@@ -1,10 +1,12 @@
 
 .card-list {
     columns: 12 100px;
-    column-gap: 0;
+    column-gap: 0.5em;
   
 }
 .card-list__perrete img {
     max-width: 100%;
+    margin-bottom:0.5em;
     display: block;
+    outline:2px solid #fff;
 }
